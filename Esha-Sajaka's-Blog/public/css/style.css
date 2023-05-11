@@ -1,8 +1,4 @@
-.form-signin .form-floating:focus-within {
-    z-index: 2;
-}
-
-.form-registration .form-floating:focus-within {
+.form-floating:focus-within {
     z-index: 2;
 }
 
